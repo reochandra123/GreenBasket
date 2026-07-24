@@ -1,0 +1,14 @@
+venv/
+navi/
+__pycache__/
+*.pyc
+db.sqlite3
+media/
+venv/
+navi/
+__pycache__/
+*.pyc
+db.sqlite3
+media/
+.idea/
+Agrofarming.zip
